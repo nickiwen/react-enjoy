@@ -10,13 +10,12 @@ React+React-Router(v4)+React-Redux+Less+Mock+Fetch
 项目是根据视频进行分阶段实现，最终版本为`react-enjoy-master`
 
 开启客户端：
-cd react-enjoy-master
-npm install
-npm start
+`cd react-enjoy-master`
+`npm install`
+`npm start`
 
 开启服务器端：
-cd react-enjoy-master/mock
-node index.js
-
+`cd react-enjoy-master/mock`
+`node index.js`
 
 ## 项目效果截图
