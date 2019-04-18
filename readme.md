@@ -19,3 +19,6 @@ React+React-Router(v4)+React-Redux+Less+Mock+Fetch
 `node index.js`
 
 ## 项目效果截图
+懒得转化为gif了，主要是ffmpeg下载没有下载来- -、
+点这个链接来看吧：
+http://iwenwiki.com/api/livable/livable.mp4
