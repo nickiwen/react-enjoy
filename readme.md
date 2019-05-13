@@ -3,8 +3,8 @@
 ## 项目技术栈
 React+React-Router(v4)+React-Redux+Less+Mock+Fetch
 
-## 视频下载地址(百度网盘)：
-链接:https://pan.baidu.com/s/1iWIWVsrbnRVDGnMkrwFrhw  密码:fuec
+## 视频观看地址：
+顶级云加：www.yunp.top
 
 ## 启动方式
 项目是根据视频进行分阶段实现，最终版本为`react-enjoy-master`
